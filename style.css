@@ -14,7 +14,7 @@
 } */
 
 .container {
-    background-image: url(../img/pattern-background-desktop.svg);
+    background-image: url(./img/pattern-background-desktop.svg);
     background-size: cover;
     background-position: center;
     background-color: rgb(106, 189, 164);
