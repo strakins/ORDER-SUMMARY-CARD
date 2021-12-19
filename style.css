@@ -24,7 +24,7 @@
     height: 100vh; 
 }
 .hero-bg {
-    background-image: url(../img/illustration-hero.svg);
+    background-image: url(./img/illustration-hero.svg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
